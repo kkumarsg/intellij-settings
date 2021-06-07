@@ -13,6 +13,7 @@
       <mapping pattern="Basics" type="AUTO_DETECTED" />
       <mapping pattern="RemoteDeviceInterface" type="AUTO_DETECTED" />
       <mapping pattern="Notes" type="AUTO_DETECTED" />
+      <mapping pattern="Searching" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="exec" type="PLAIN_TEXT" />
