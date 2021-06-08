@@ -4,6 +4,7 @@
       <mapping pattern="creating pod" type="AUTO_DETECTED" />
       <mapping pattern="Docker Compose, Container Links" type="AUTO_DETECTED" />
       <mapping pattern="Registry, Repos, DockerHub etc" type="AUTO_DETECTED" />
+      <mapping pattern="BinaryTree" type="AUTO_DETECTED" />
       <mapping pattern="Arrays" type="AUTO_DETECTED" />
       <mapping pattern="RemoteDeviceInterface.java" type="AUTO_DETECTED" />
       <mapping pattern="Docker Basics" type="AUTO_DETECTED" />
