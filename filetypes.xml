@@ -1,20 +1,21 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="notes" type="AUTO_DETECTED" />
       <mapping pattern="creating pod" type="AUTO_DETECTED" />
-      <mapping pattern="Docker Compose, Container Links" type="AUTO_DETECTED" />
-      <mapping pattern="Registry, Repos, DockerHub etc" type="AUTO_DETECTED" />
       <mapping pattern="BinaryTree" type="AUTO_DETECTED" />
+      <mapping pattern="Basics" type="AUTO_DETECTED" />
+      <mapping pattern="Notes" type="AUTO_DETECTED" />
+      <mapping pattern="creating service" type="AUTO_DETECTED" />
+      <mapping pattern="gradlew" type="AUTO_DETECTED" />
+      <mapping pattern="Registry, Repos, DockerHub etc" type="AUTO_DETECTED" />
+      <mapping pattern="Docker Compose, Container Links" type="AUTO_DETECTED" />
+      <mapping pattern="Docker Basics" type="AUTO_DETECTED" />
+      <mapping pattern="Searching" type="AUTO_DETECTED" />
+      <mapping pattern="RemoteDeviceInterface" type="AUTO_DETECTED" />
       <mapping pattern="Arrays" type="AUTO_DETECTED" />
       <mapping pattern="RemoteDeviceInterface.java" type="AUTO_DETECTED" />
-      <mapping pattern="Docker Basics" type="AUTO_DETECTED" />
-      <mapping pattern="creating service" type="AUTO_DETECTED" />
-      <mapping pattern="notes" type="AUTO_DETECTED" />
-      <mapping pattern="gradlew" type="AUTO_DETECTED" />
-      <mapping pattern="Basics" type="AUTO_DETECTED" />
-      <mapping pattern="RemoteDeviceInterface" type="AUTO_DETECTED" />
-      <mapping pattern="Notes" type="AUTO_DETECTED" />
-      <mapping pattern="Searching" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="exec" type="PLAIN_TEXT" />
